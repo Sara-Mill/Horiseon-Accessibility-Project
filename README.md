@@ -33,8 +33,6 @@ The HTML elements follow a logicial structure independent of styling and positio
 
 The image elements have accessible alt attirbutes.
 
-![alt text]![](Screenshot%20Alt%20Attributes.png)) "Screen shot of alt attributes for images")
-
 ![Screenshot Alt Attributes](https://user-images.githubusercontent.com/106774866/179424054-66b00a42-b0fc-4a38-8bf4-982c15b7430c.png)
 
 
