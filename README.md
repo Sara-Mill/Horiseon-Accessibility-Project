@@ -20,7 +20,7 @@ The HTML elements follow a logicial structure independent of styling and positio
 
 The image elements have accessible alt attirbutes.
 
-![alt text]![](Screenshot%20Alt%20Attributes.png))) "Screen shot of alt attributes for images")
+![alt text]![](Screenshot%20Alt%20Attributes.png)) "Screen shot of alt attributes for images")
 
 The heading attributes fall in sequential order.
 
